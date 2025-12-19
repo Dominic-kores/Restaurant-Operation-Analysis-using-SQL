@@ -4,7 +4,7 @@ The World Cafe debuted a new menu at the start of the year. You’ve been asked 
 
 Explore the menu items table to get an idea of what’s in the menu.
 
-Explore the order details table to get an idea of the data being collected.
+You can explore the order details table to understand the data being collected.
 
 Use both tables to understand how customers are reacting to the new menu.
 
@@ -13,7 +13,7 @@ Use both tables to understand how customers are reacting to the new menu.
 •	Italian cuisine is the most premium and popular category.  
 •	Asian dishes are highly represented in top orders, which suggests customers prefer variety.  
 •	High-spend orders often feature 10 to 14 items, which suggests group dining or shared orders.  
-•	Menu pricing is strategically tiered; affordable (American/Mexican), midrange (Asian), and premium (Italian).  
+•	Menu pricing is strategically tiered: affordable (American/Mexican), midrange (Asian), and premium (Italian).  
 •	The short analysis window (Jan to Mar 2023) provides clear short-term trends suitable for menu optimization.  
 
 ## Summary  
