@@ -1,5 +1,5 @@
 # Restaurant-Operation-Analysis-using-SQL
-The World Cafe debuted a new menu at the start of the year. You’ve been asked to dig into the customer data to see which menu items are doing well/not well and what top customers seem to like best.
+This project analyzes customer sales data following World Café’s new menu launch to identify high-performing and low-performing items and understand customer preferences, with a focus on top-spending customers.
 ## The objectives for this project are as follows
 
 Explore the menu items table to get an idea of what’s in the menu.
