@@ -30,6 +30,3 @@ The SQL analysis provides valuable insights into World Café’s operations, hig
 • Incorporate customer demographics (if available) for behavior-based segmentation.  
 
 
-<img width="451" height="489" alt="image" src="https://github.com/user-attachments/assets/1568d3bc-f418-43aa-b454-565f71678464" />
-
-<img width="451" height="81" alt="image" src="https://github.com/user-attachments/assets/08e5a140-4841-4265-aa60-f8d042cdd570" />
